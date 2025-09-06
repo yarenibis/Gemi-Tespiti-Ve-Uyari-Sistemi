@@ -1,5 +1,7 @@
 # 🚢 Gemi Tespiti ve Sınıflandırma Sistemi
 
+# Detaylı bilgi için rapor klasörü içindeki makaleyi okuyabilirsiniz.
+
 ## 📌 Proje Özeti
 Gemi tespiti, güvenlik, lojistik ve çevre koruma gibi kritik alanlarda büyük bir öneme sahiptir.  
 Uluslararası sularda veya ülkelerin kara sularında seyreden gemilerin izlenmesi, olası kaçakçılık, terörizm ve diğer suç faaliyetlerinin önlenmesi açısından son derece önemlidir. Ayrıca savaş gemilerinin veya şüpheli gemilerin tespiti, bir ülkenin güvenliğini sağlamak için stratejik bir rol oynar.  
@@ -64,13 +66,6 @@ Bu yapı sayesinde kullanıcılar, basit bir mobil arayüz üzerinden **etkin ve
 
 ---
 
-## 📷 Örnek Çıktılar
 
-<table>
-  <tr>
-    <td><img src="images/cruise.jpg" width="250"/></td>
-    <td><img src="images/warship.jpg" width="250"/></td>
-    <td><img src="images/sailboat.jpg" width="250"/></td>
-  </tr>
-</table>
+
 
